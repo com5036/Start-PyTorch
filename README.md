@@ -1,6 +1,6 @@
 # Start-PyTorch
 Let's study PyTorch
-- [ ] ANN
+- [x] ANN
 - [ ] DNN
 - [ ] CNN
 - [ ] auto-encoder
