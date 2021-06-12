@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Start-PyTorch.iml" filepath="$PROJECT_DIR$/.idea/Start-PyTorch.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+>>>>>>> ba501a4507495421c485a3efb2e71cfb9dee28fc
     </modules>
   </component>
 </project>
