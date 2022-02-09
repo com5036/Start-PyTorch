@@ -1,4 +1,4 @@
-# Start-PyTorch
+# 3-min-PyTorch
 - [x] ANN
 - [x] DNN
 - [x] CNN
