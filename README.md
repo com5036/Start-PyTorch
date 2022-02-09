@@ -1,10 +1,9 @@
 # Start-PyTorch
-Let's study PyTorch
 - [x] ANN
-- [ ] DNN
-- [ ] CNN
+- [x] DNN
+- [x] CNN
 - [ ] auto-encoder
 - [ ] RNN
 - [ ] adversarial attack
-- [ ] GAN
+- [x] GAN
 - [ ] DQN
